@@ -35,7 +35,6 @@ table,td,th{
   }
   #lunch{
       background-image: url(./images/lunch.jpg);
-      
   }
   #dinner{
    background-image: url(./images/dinner.jpg)
@@ -70,12 +69,31 @@ table,td,th{
 .jj{
     display: flex;
 }
+/* .tt{
+    display: flex; */
+}
 .tt{
-    display: flex;
+    margin-right: 15%;
+    margin-left: 15%;
 }
+.df
 .uu{
-    display: inline;
+    /* display: inline; */
+    width: ; 80%;
+    margin
+    box-shadow: 5px 5px 5px 5px grey;
+
 }
+.mm{
+    display: flex;
+
+}
+.sec3{
+    margin-right: 15%;
+    margin-left: 15%;
+    
+}
+
 
 .to{
     display: flex;
