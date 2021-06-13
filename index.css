@@ -81,7 +81,7 @@ table,td,th{
     padding-bottom: 25px;
     margin-right: 5%;
     padding-right: 30px;
-    box-shadow: 5px 5px 5px 5px grey;
+    box-shadow: 0px 0px 5px 1px grey;
 }
 /* .tt{
     display: flex; */
@@ -95,7 +95,7 @@ table,td,th{
     /* display: inline; */
     width: ; 80%;
     margin
-    box-shadow: 5px 5px 5px 5px grey;
+    box-shadow: 0px 0px 5px 1px grey;
 
 }
 .mm{
@@ -123,15 +123,15 @@ table,td,th{
     margin-left: 10%;   
     margin-top: 20px;
     margin-bottom: 30px;
-    box-shadow: 5px 5px 5px 5px grey;
+    box-shadow: 0px 0px 5px 1px grey;
     text-align: left;
 }
 
 .ro{
     text-align: center;
     color: #F15A29;
-    height: 67px;
-    width: 80%;
+    /* height: 67px;
+    width: 80%; */
     
 }
 .border{
@@ -222,7 +222,7 @@ footer{
     
 }
 .tab{
-    box-shadow: 5px 5px 5px 5px grey;
+    box-shadow: 0px 0px 5px 1px grey;
     width: unset;
     height: unset;
     margin-left: 50px;
@@ -258,4 +258,29 @@ footer{
     background-color: #F25C2A;
     width: 125px;
     border-radius: 8px;
+}
+.too{
+    display: flex;
+    width: 80%;
+    margin-left: 10%;
+    box-shadow: 0px 0px 5px 1px;
+    margin-top: 5%;
+    margin-bottom: 5%;
+}
+.borderr{
+    width: 80%;
+    border-right: 1px solid grey;
+    text-align: center;
+}
+.lann{
+    display: flex;
+    justify-content: center;
+}
+.kipp{
+    height: 50px;
+    width: 50px;
+    margin-top: 10px;
+}
+.aroo{
+    color: red;
 }
