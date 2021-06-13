@@ -69,12 +69,12 @@ table,td,th{
     height: 20%;
     width: 20%;
 }
-.jj{
+.container10{
     display: flex;
     padding: 3px;
     margin-left: 80px;
 }
-.uu{
+.container9{
     border: transparent;
     padding-left: 25px;
     padding-top: 25px;
@@ -90,7 +90,7 @@ table,td,th{
     margin-right: 15%;
     margin-left: 15%;
 }
-.df
+/* .df */
 .uu{
     /* display: inline; */
     width: ; 80%;
