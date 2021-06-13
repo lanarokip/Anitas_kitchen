@@ -131,9 +131,11 @@ table,td,th{
     text-align: center;
     color: #F15A29;
     height: 67px;
+    width: 80%;
+    
 }
 .border{
-    border-right: 1px solid black;
+    border-right: 1px  solid black;
 }
 .ki{
     text-align: center;
@@ -248,10 +250,12 @@ footer{
     opacity: 0.4;
     margin-right: 40px;
     text-align: left;
+    border-radius: 8px;
     
 }
 .live{
     border: transparent;
     background-color: red;
     width: 125px;
+    border-radius: 8px;
 }
