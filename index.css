@@ -32,12 +32,15 @@ table,td,th{
   }
   #break{
       background-image: url(./images/breakfast.jpg);
+      background-size: cover;
   }
   #lunch{
       background-image: url(./images/lunch.jpg);
+      background-size: cover;
   }
   #dinner{
-   background-image: url(./images/dinner.jpg)
+    background-image: url(./images/dinner.jpg);
+    background-size: cover;
   }
   .Fastfoods{
     display: flex;
@@ -68,6 +71,17 @@ table,td,th{
 }
 .jj{
     display: flex;
+    padding: 3px;
+    margin-right: 50px;
+}
+.uu{
+    border: transparent;
+    padding-left: 25px;
+    padding-top: 25px;
+    padding-bottom: 25px;
+    margin-right: 5%;
+    padding-right: 30px;
+    box-shadow: 5px 5px 5px 5px grey;
 }
 /* .tt{
     display: flex; */
@@ -91,8 +105,7 @@ table,td,th{
 .sec3{
     margin-right: 15%;
     margin-left: 15%;
-    
-    
+    text-align: left;
 }
 
 
@@ -140,22 +153,22 @@ footer{
     
 }
 /* chichenburger  */
-.switcher {
+.back {
     background-image: url(./images/background2.jpg);
     width: 80%;
     margin: 0 auto;
     padding: 5em 6em;
 }
-.switcher-container {
+.back-container {
     background-color: #fff;
 }
-.switcher-list {
+.end-list {
     text-align: center;
     display: flex;
     justify-content: space-between;
     background-color: #999;
 }
-.switcher-list-item1 {
+.end-list-1 {
     background: #fff;
     padding-top: 1em;
     padding-left: 7em;
@@ -163,11 +176,11 @@ footer{
     color: #F25C2A;
     font-weight: bold;
 }
-.switcher-list-item {
+.end-list-2 {
     border-right: .8px solid #111;
     padding-right: 6em;
 }
-.switcher-images {
+.aro-images {
    text-align: center;
    display: grid;
    grid-template-columns: 1fr 1fr 1fr;
@@ -196,6 +209,7 @@ footer{
     box-shadow: 5px 5px 5px 5px grey;
     width: unset;
     height: unset;
+    margin-left: 50px;
 }
 .tyu{
     padding: 30px;
