@@ -284,3 +284,9 @@ footer{
 .aroo{
     color: red;
 }
+span{
+    color: white;
+    float: left;
+    margin-left: 2%;
+    height: 233%;
+  }
