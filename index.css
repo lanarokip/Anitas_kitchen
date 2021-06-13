@@ -116,11 +116,16 @@ table,td,th{
     margin-top: 20px;
     margin-bottom: 30px;
     box-shadow: 5px 5px 5px 5px grey;
+    text-align: left;
 }
 
 .ro{
     text-align: center;
     color: #F15A29;
+    height: 67px;
+}
+.border{
+    border-right: 1px solid black;
 }
 .ki{
     text-align: center;
