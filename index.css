@@ -92,6 +92,7 @@ table,td,th{
     margin-right: 15%;
     margin-left: 15%;
     
+    
 }
 
 
@@ -137,4 +138,97 @@ footer{
     display: flex;
     flex-direction: column;
     
+}
+/* chichenburger  */
+.switcher {
+    background-image: url(./images/background2.jpg);
+    width: 80%;
+    margin: 0 auto;
+    padding: 5em 6em;
+}
+.switcher-container {
+    background-color: #fff;
+}
+.switcher-list {
+    text-align: center;
+    display: flex;
+    justify-content: space-between;
+    background-color: #999;
+}
+.switcher-list-item1 {
+    background: #fff;
+    padding-top: 1em;
+    padding-left: 7em;
+    padding-right: 7em;
+    color: #F25C2A;
+    font-weight: bold;
+}
+.switcher-list-item {
+    border-right: .8px solid #111;
+    padding-right: 6em;
+}
+.switcher-images {
+   text-align: center;
+   display: grid;
+   grid-template-columns: 1fr 1fr 1fr;
+   margin-top: 1.5em;
+   margin-left: 4em;
+   margin-right: 4em;
+}
+.food-image1 p{
+    color: #F25C2A;
+    font-weight: bold;
+}
+/* chicken */
+.tabl{
+    display: flex;
+
+    /* text-align: right; */
+}
+.galar{
+    border: solid red;
+    border-radius: 7px;
+    color: red;
+    width: 150px;
+    
+}
+.tab{
+    box-shadow: 5px 5px 5px 5px grey;
+    width: unset;
+    height: unset;
+}
+.tyu{
+    padding: 30px;
+    margin-right: 15%;
+    margin-left: 15%;
+    text-align: right;
+}
+.toma{
+    text-align: center;
+    background-image: url(./images/background3.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: white;
+    margin-top: 56px;
+    padding-bottom: 56px;
+    padding-top: 25px;
+}
+.jk{
+    display: flex;
+    justify-content: center;
+    justify-content: space-between 7em; 
+}
+.liv{
+    border: 23px transparent;
+    background-color: gray;
+    width: 275px;
+    opacity: 0.4;
+    margin-right: 40px;
+    text-align: left;
+    
+}
+.live{
+    border: transparent;
+    background-color: red;
+    width: 125px;
 }
