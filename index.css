@@ -55,15 +55,20 @@ table,td,th{
     background-image: url(./images/background1.jpg);
     background-repeat: no-repeat;
     background-size: cover;
+    padding-bottom: 67px;
+    margin-bottom: 20px;
 }
 .menu2{
     text-align: center;
+    padding-top: 7%;
+
 }
 .menu2 p{
     text-transform: capitalize;
     font-size: 20px;
     color: white;
     padding: 30px;
+    padding-top: 56px;
 }
 .menu{
     height: 20%;
@@ -162,10 +167,10 @@ footer{
     background-color: #F15A29;
 }
 .
-.YT{
+.container8{
     display: flex;
     flex-direction: column;
-    
+    justify-content: center;
 }
 /* chichenburger  */
 .back {
@@ -239,7 +244,9 @@ footer{
     padding-top: 25px;
 }
 .jk{
+
     display: flex;
+    opacity: 0.7;
     justify-content: center;
     justify-content: space-between 7em; 
 }
@@ -247,10 +254,10 @@ footer{
     border: 23px transparent;
     background-color: gray;
     width: 275px;
-    opacity: 0.4;
     margin-right: 40px;
     text-align: left;
     border-radius: 8px;
+    opacity: 0.4;
     
 }
 .live{
@@ -258,6 +265,7 @@ footer{
     background-color: #F25C2A;
     width: 125px;
     border-radius: 8px;
+    /* opacity: 0.4; */
 }
 .too{
     display: flex;
