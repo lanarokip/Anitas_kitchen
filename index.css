@@ -55,7 +55,7 @@ table,td,th{
     background-image: url(./images/background1.jpg);
     background-repeat: no-repeat;
     background-size: cover;
-    padding-bottom: 67px;
+    padding-bottom: 6px;
     margin-bottom: 20px;
 }
 .menu2{
@@ -324,4 +324,9 @@ input {
 }
 .imagelinks>img {
     margin-right: 10px;
+}
+span{
+    color: white;
+    font-size: 60px ;
+    padding-right: 80px;
 }
